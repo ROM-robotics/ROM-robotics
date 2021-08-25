@@ -4,7 +4,7 @@
 
 ဘာလာရှာတာလဲဗျ 
 
-လိုအပ်ရင် ဆက်သွယ်လိုက်ပါ။
+လိုအပ်ရင် ဆက်သွယ်လိုက်ပါ။ ကုဒ်ရေးပေးမယ်။ 
 
 - 🔭 I’m currently working on ROM ROBOTICS.
 - 🌱 I’m currently learning Robotics, AI, embedded Linux and Mathematics.
