@@ -1,6 +1,6 @@
 ### Hola I am Peter 👋 
 <img src="listen.png"/>
-<img src="https://github-readme-status.vercel.app/api?username=greenghostman&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-status.vercel.app/api?username=greenghostman&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=f7c331"/>
 
 ဘာလာရှာတာလဲဗျ 
 
