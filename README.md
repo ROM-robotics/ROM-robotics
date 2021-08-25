@@ -1,9 +1,9 @@
 ### Hola I am Peter 👋 
 <img src="listen.png"/>
-
+<img src="https://github-readme-status.vercel.app/api?username=greenghostman&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 ဘာလာရှာတာလဲဗျ 
 လိုအပ်ရင် ဆက်သွယ်လိုက်ပါ။
-<img src="https://github-readme-status.vercel.app/api?username=greenghostman&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
 - 🔭 I’m currently working on ROM ROBOTICS.
 - 🌱 I’m currently learning Robotics, AI, embedded Linux and Mathematics.
 - 👯 I’m looking to collaborate on Github.
