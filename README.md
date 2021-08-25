@@ -1,9 +1,7 @@
-### Hola I am Pyae Soan Aung 👋 တေွ့
+### Hola I am Pyae Soan Aung 👋  
+ဘာလာရှာတာလဲဗျ 
 
-<!--
-**GreenGhostMan/GreenGhostMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+လိုအပ်ရင် ဆက်သွယ်လိုက်ပါ။
 
 - 🔭 I’m currently working on ROM ROBOTICS.
 - 🌱 I’m currently learning Robotics, AI, embedded Linux and Mathematics.
