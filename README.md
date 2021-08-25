@@ -1,9 +1,7 @@
 ### Hola I am Peter 👋 
 <img src="listen.png"/>
-
 ဘာလာရှာတာလဲဗျ 
 လိုအပ်ရင် ဆက်သွယ်လိုက်ပါ။
-<img src="smile2.png"/>
 - 🔭 I’m currently working on ROM ROBOTICS.
 - 🌱 I’m currently learning Robotics, AI, embedded Linux and Mathematics.
 - 👯 I’m looking to collaborate on Github.
