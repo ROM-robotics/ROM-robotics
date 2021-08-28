@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Robotics, AI, embedded Linux and Mathematics.
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I’m looking for help with robotics and embedded documentations.
-- 📫 How to reach me: [Facebook Page](https://facebook.com/romrobots) | [Facebook@pyaesoanaung](https://facebook.com/pyaesoanaung.44)| [YouTube@ROM](https://youtube.com) | [Website](http://romrobots.com) 
+- 📫 How to reach me: [Facebook Page](https://facebook.com/romrobots) | [Facebook@pyaesoanaung](https://facebook.com/pyaesoanaung.44)| [YouTube@ROM](https://www.youtube.com/c/romrobotics) | [Website](http://romrobots.com) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: eat daily, listen songs hourly and i am alone.
 
